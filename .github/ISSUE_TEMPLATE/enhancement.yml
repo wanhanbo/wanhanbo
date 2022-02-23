@@ -1,4 +1,4 @@
-name: Enhancement
+name: "\U0001F680 Enhancement"
 description: As a developer, I want to make an enhancement for MatrixOne.
 title: "[Enhancement]: "
 labels: [kind/enhancement, needs-triage]

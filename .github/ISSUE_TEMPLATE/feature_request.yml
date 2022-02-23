@@ -3,7 +3,7 @@ description: Suggest an idea for MatrixOne
 title: "[Feature Reques]: "
 labels: [kind/feature, needs-triage]
 assignees:
-  - m-schen
+  - wanhanbo
 body:
   - type: checkboxes
     attributes:

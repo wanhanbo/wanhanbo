@@ -1,4 +1,4 @@
-name: Refactoring request
+name: " :wrench: Refactoring request"
 description: Make a refactoring request to MatrixOne
 title: "[Refactoring]: "
 labels: [kind/refactoring, needs-triage]

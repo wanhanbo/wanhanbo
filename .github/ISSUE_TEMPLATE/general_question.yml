@@ -13,10 +13,10 @@ body:
     attributes:
       value: |
         Before asking a question, make sure you have:
-        Searched open and closed [GiHhub issue](https://github.com/matrixorigin/matrixone/issues)
-        Read the documentation:
-        [MatrixOne Readme](https://github.com/matrixorigin/matrixone)
-        [MatrixOne Doc](https://docs.matrixorigin.io)
+        * Searched open and closed [GiHhub issue](https://github.com/matrixorigin/matrixone/issues)
+        * Read the documentation:
+        * [MatrixOne Readme](https://github.com/matrixorigin/matrixone)
+        * [MatrixOne Doc](https://docs.matrixorigin.io)
   - type: textarea
     attributes:
       label: Describe your problem

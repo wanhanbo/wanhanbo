@@ -1,4 +1,4 @@
-name: Performance question
+name: " :dash: Performance question"
 description: Create a performance problem report to improve MatrixOne
 title: "[Performance]: "
 labels: [kind/performance, needs-triage]
